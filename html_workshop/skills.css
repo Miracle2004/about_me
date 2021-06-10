@@ -1,0 +1,39 @@
+
+.progress{
+    margin: 20px;
+    height: 35px;
+    width: 100%;
+}
+.progress-bar{
+    background-color: crimson;
+}
+.main-space{
+    display:flex;
+    align-items: flex-start;
+}
+
+.skill-breakdown{
+    margin: 150px;
+    /*margin-right: 50%;*/
+    width:500px;
+    flex: 1;
+    color: rgb(82, 13, 146);
+}
+
+
+.skill-breakdown p{
+    margin-left:20px;
+}
+
+.side-images{
+    display: flex;
+    flex-wrap:wrap;
+    width: 40rem;
+    margin-top: 150px;
+    margin-left: 15px;
+}
+
+.side-images img{
+    margin: 5px 5px 5px 5px;
+    width: 300px;
+}

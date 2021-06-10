@@ -1,0 +1,32 @@
+.cards{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-content: space-around;
+
+}
+
+.cards div {
+    margin-right: 30px;
+    width: 30%;
+    height: 300px;
+    margin-top: 50px;
+}
+
+
+.card1{
+    background-image: url(./url);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: auto;
+   
+}
+
+.card2{}
+
+.card3{}
+
+.card4{}
+
+.card5{}

@@ -1,0 +1,30 @@
+h1{
+    font-size:75px;
+    padding-left: -35px;
+    padding-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: 100;
+}
+
+.profilepic {
+    border-radius: 300px 300px 300px 300px;
+    border: 5px solid rgb(87, 33, 33);
+    margin-bottom: -5px;
+    margin-top: -26px;
+}
+img{
+    height:300px ;
+    width:230px ;
+    
+}
+
+header{background-color: rgb(240,128, 128);
+padding-left: 500px;
+padding-top: 30px;
+margin-top: -25px;
+}
+
+body {
+    background-color: rgb(215, 223, 236)
+}
